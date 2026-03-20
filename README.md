@@ -1,10 +1,10 @@
-## Prerequisites
+# examine
 - [SageMath](https://www.sagemath.org/)
 
 ## How to Use
 ```bash
-git clone --recursive https://github.com/gong-cr/FHE-Security-Guidelines
-cd FHE-Security-Guidelines
+git clone --recursive https://github.com/gong-cr/examine
+cd examine
 ```
 
 For generating the table of maximum log Q, run the script:
