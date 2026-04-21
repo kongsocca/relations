@@ -1,4 +1,4 @@
-# tankerkoenigToInfluxDb
+# corpobot
 - [SageMath](https://www.sagemath.org/)
 
 ## How to Use
